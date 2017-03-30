@@ -21,4 +21,5 @@ class Test {
 $childClass = new Test;
 $childClass->test();
 echo "<br/>Object Class-".get_class($childClass);
+echo "test";
 ?>
